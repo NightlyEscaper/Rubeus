@@ -3,7 +3,7 @@
     "version": "0.0.0",
     "command_name": "rubeus",
     "original_author": "@GhostPack (HarmJ0y)",
-    "repo_url": "https://github.com/sliverarmory/Rubeus",
+    "repo_url": "https://github.com/NightlyEscaper/Rubeus",
     "help": "Rubeus is a C# tool set for raw Kerberos interaction and abuses.",
 
     "entrypoint": "Main",
